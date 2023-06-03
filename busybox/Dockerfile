@@ -1,2 +1,2 @@
-FROM gcr.io/google-samples/microservices-demo/emailservice:v0.7.0
+FROM busybox:latest
 MAINTAINER hy
