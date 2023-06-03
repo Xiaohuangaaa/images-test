@@ -1,2 +1,2 @@
-FROM gcr.io/google-samples/microservices-demo/emailservice:v0.7.0
+FROM gcr.io/google-samples/microservices-demo/adservice:v0.7.0
 MAINTAINER hy
